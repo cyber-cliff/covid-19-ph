@@ -125,8 +125,8 @@ const App = () => {
           </span>
           <span className="p-1">
             {'</>'} by{' '}
-            <a href="https://markanthonyuy.com" className="text-blue-500">
-              markanthonyuy
+            <a href="#" className="text-blue-500">
+              Epoy
             </a>{' '}
           </span>
           <span className="p-1">
